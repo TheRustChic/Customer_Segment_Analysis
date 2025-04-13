@@ -1,4 +1,4 @@
-# Cust📈 Customer Segmentation with K-Means Clustering
+ 📈 Customer Segmentation with K-Means Clustering
 This project performs customer segmentation using K-Means clustering on the Mall Customers dataset from Kaggle. It identifies customer groups based on spending habits and income levels to support targeted marketing strategies.
 
 📁 Tools Used:
